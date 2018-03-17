@@ -1,13 +1,13 @@
 ---
-title: Our Coffee
-type: products
-image: /img/products-jumbotron.jpg
-heading: What we offer
+title: Our Menus
+type: menus
+image: /img/bbb-counter.jpg
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  We grind our own burger daily, it is fresh brisket, inside round and ribeye to make a fantastic burger. Burgers are the focal point but do not miss our ground chicken burger and is all white meat and zucchini for a healthy option. We hand cut our fries daily and make shakes the old fashioned way.
+menus:
+  - image: /img/menu-page-1.jpg
+  - image: /img/menu-page-2.jpg
+  - image: /img/four-leaf-clover-shake.jpg
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
