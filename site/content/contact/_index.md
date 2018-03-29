@@ -1,6 +1,6 @@
 ---
-title: "Contact Us"
-image: "/img/bbb-outdoor-non-blur.jpg"
+title: Contact Us
+image: /img/about-jumbotron.jpg
 ---
 
 <h3 class="f4 b lh-title mb2 mt2">Location</h3>
