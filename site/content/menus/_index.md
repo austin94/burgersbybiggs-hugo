@@ -7,7 +7,6 @@ description: >-
 menus:
   - image: /img/menu-page-1.jpg
   - image: /img/menu-page-2.jpg
-  - image: /img/four-leaf-clover-shake.jpg
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
