@@ -18,8 +18,8 @@ image: /img/bbb-outdoor-non-blur.jpg
 
 <h3 class="f4 b lh-title mb2 mt2">Temporary COVID-19 Hours</h3>
 
-* Sunday - Thursday: 11:00AM - 8:00PM
-* Friday - Saturday: 11:00AM - 9:00PM
+* Monday - Saturday: 11:00AM - 9:00PM
+* Sunday: 11:00AM - 8:00PM
 
 <h3 class="f4 b lh-title mb2 mt2">Phone</h3>
 
